@@ -1,0 +1,4 @@
+Written report looks good and well descripted! The graphs and pictures
+provided in the report were good as well and easily visualized.
+Was unable to run the code as you loaded the code dataset locally. 
+Was able to see what you wanted to do with the dataset
