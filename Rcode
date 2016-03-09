@@ -1,0 +1,7 @@
+data <-read.csv(file.choose(), header=T) 
+table(data) 
+summary(data)
+table(Gender)/length(Gender) 
+table(Internet)/length(Internet) 
+data$hoursperweek <-cut(data$hoursperweek),c(-Inf,0,5,10,15,20,25,30,Inf)) 
+barplot(hoursperweek)
